@@ -1,0 +1,8 @@
+/.metadata/
+Servers/
+*.classpath
+programmers/.settings/
+*.project
+*.MF
+programmers/**/.gitignore
+programmers/bin
